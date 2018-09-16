@@ -7,4 +7,4 @@ Team Members:
 + Raghavendra Nataraj
 + Prateek Srivastava
 
-For more details of project (click here)[https://github.com/prateek22sri/image-orientation-detection/blob/master/Assignment5_Report.pdf]
+For more details of project [click here](https://github.com/prateek22sri/image-orientation-detection/blob/master/Assignment5_Report.pdf)
